@@ -38,7 +38,7 @@ sns.set_style("whitegrid")
 # =============================================
 
 # CSV dosyasının yolu (PyCharm için yerel yol)
-file_path = 'C:/Users/HP/PycharmProjects/Final-Project1/customer_experience_data.csv'
+file_path = '/customer_experience_data.csv'
 
 
 # Veri setini oku
